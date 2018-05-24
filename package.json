@@ -1,13 +1,13 @@
 {
-  "name": "mem-fs-editor",
-  "version": "5.1.0",
+  "name": "mem-fs-editor-asmagin",
+  "version": "5.2.0",
   "description": "File edition helpers working on top of mem-fs",
   "scripts": {
     "pretest": "eslint .",
     "test": "jest"
   },
-  "repository": "SBoudrias/mem-fs-editor",
-  "author": "Simon Boudrias",
+  "repository": "asmagin/mem-fs-editor",
+  "author": "Alex Smagin",
   "license": "MIT",
   "main": "lib/index.js",
   "files": [
